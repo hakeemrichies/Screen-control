@@ -1,0 +1,27 @@
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build files
+build/
+dist/
+.gradle/
+.dart_tool/
+
+# Dependencies
+node_modules/
+pubspec.lock
+
+# Generated files
+*.g.dart
+*.freezed.dart
+*.config.dart
